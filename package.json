@@ -1,0 +1,25 @@
+{
+  "name": "sample-node-express-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackthegap/sample-node-express-fetch.git"
+  },
+  "keywords": [],
+  "author": "Fabricio Braga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackthegap/sample-node-express-fetch/issues"
+  },
+  "homepage": "https://github.com/hackthegap/sample-node-express-fetch#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
